@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "5.0",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -8,6 +8,15 @@
 			"Name": "RegexInBP",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/16339a5a34cb452c9a277bc3044b4608"
+		},
+		{
+			"Name": "Bridge",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
 		}
 	]
 }
